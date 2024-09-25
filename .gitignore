@@ -163,4 +163,6 @@ cython_debug/
 #.idea/
 
 fine_tuned_ner_model_sm/
+fine_tuned_ner_model_sm_with_ruler
+
 *.spacy
