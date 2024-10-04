@@ -164,5 +164,11 @@ cython_debug/
 
 fine_tuned_ner_model_sm/
 fine_tuned_ner_model_sm_with_ruler
+fine_tuned_ner_model_lg/
+fine_tuned_ner_model_lg_with_ruler
+fine_tuned_ner_model_trf/
+en_core_web_trf_with_ruler/
+
+
 
 *.spacy
